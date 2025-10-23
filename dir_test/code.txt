@@ -1,0 +1,2 @@
+#This is a code logic for background theme
+sample code here
