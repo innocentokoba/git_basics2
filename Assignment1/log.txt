@@ -1,2 +1,0 @@
-#These are log samples from the application
-Log entry yyyydddmmm

@@ -1,2 +1,0 @@
-#These are sample outputs from the application
-IO output yyyydddmmm
